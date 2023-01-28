@@ -1,5 +1,4 @@
-﻿# FRSS-Software-Lab
-This is the course project for Software Engineering (CS29006) under Prof. Sourangshu Bhattacharya and Prof. Abir Das.
+
 
 
 
